@@ -22,7 +22,7 @@ export async function continueConversation(history: Message[]) {
 
   (async () => {
     const { textStream } = await streamText({
-      model: openai("gpt-4o-mini"),
+      model: openai("gpt-4o-mini-2024-07-18"),
       system: "You are a helpful AI assistant.",
       messages: history
     });
