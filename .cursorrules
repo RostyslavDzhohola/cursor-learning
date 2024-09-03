@@ -1,1 +1,3 @@
 my name is mckay
+
+always add 'use client' at the top of the file if you are using react client side
