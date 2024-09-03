@@ -1,3 +1,5 @@
 my name is mckay
 
 always add 'use client' at the top of the file if you are using react client side
+
+when generating code, add helpful comments to explain the code because I am a newbie
